@@ -1,6 +1,6 @@
 # wifist
 
-A simple Python script to reconnect to Wifirst, based on [Wifirst_keepalive](/Tulux/Wifirst_keepalive) by [Tulux](/Tulux).
+A simple Python script to reconnect to Wifirst, based on [Wifirst_keepalive](https://github.com/Tulux/Wifirst_keepalive) by [Tulux](/Tulux).
 
 ## usage
 
